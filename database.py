@@ -20,9 +20,9 @@ async def create_pool():
         raise
 async def create_database():
     try:
-        db_name = DATABASE_CONFIG.get('database', 'medios')
+        db_name = DATABASE_CONFIG.get('db', 'medios')
         if not db_name:
-            raise KeyError("DATABASE_CONFIG is missing 'database' key or it is empty.")
+            raise KeyError("DATABASE_CONFIG is missing 'db' key or it is empty.")
         logger.info("create_database: Checking database (%s)...", db_name)
         flush_logs()
         conn = await aiomysql.connect(
