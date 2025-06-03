@@ -1,0 +1,82 @@
+[
+    {
+        "name": "optid",
+        "value": "dc7cb3ea-17e5-429e-aadd-805124d96b33",
+        "domain": ".mediamarkt.com.tr",
+        "path": "/",
+        "expires": -1,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "__cf_bm",
+        "value": "vatcJCocjsTNVxXns86aWa29Jhi0x3LDOnX5n.g9hgw-1748989036-1.0.1.1-BW_FmCD2vSuwiAIHrgCVo5g7cw56.40F6skWiFh1yNboTGWo3Rbnwuoutw.AIa.IoUASODdKl9gDLR0KEY6dpQuCGafwgdSX7adZ3dLNcOc",
+        "domain": ".mediamarkt.com.tr",
+        "path": "/",
+        "expires": 1748990837.675094,
+        "httpOnly": true,
+        "secure": true,
+        "sameSite": "None"
+    },
+    {
+        "name": "_cfuvid",
+        "value": "I2hDQVLnng0v9ZTb4.vn9hyfbeVKlmkhNI0g7Q50dmg-1748989036841-0.0.1.1-604800000",
+        "domain": ".mediamarkt.com.tr",
+        "path": "/",
+        "expires": -1,
+        "httpOnly": true,
+        "secure": true,
+        "sameSite": "None"
+    },
+    {
+        "name": "ts_id",
+        "value": "154fdf73-44c4-4c10-aee6-552a7c1f9445",
+        "domain": ".mediamarkt.com.tr",
+        "path": "/",
+        "expires": 1748992640.694047,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "delivery_zip",
+        "value": "%7B%22zip%22%3A%22%22%2C%22name%22%3A%22%22%7D",
+        "domain": "www.mediamarkt.com.tr",
+        "path": "/",
+        "expires": 1749075438.500009,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "t_fpd",
+        "value": "true",
+        "domain": ".mediamarkt.com.tr",
+        "path": "/",
+        "expires": -1,
+        "httpOnly": false,
+        "secure": true,
+        "sameSite": "Lax"
+    },
+    {
+        "name": "r",
+        "value": "9W+BHzQs9lknV7vPGXqL0NXyhtNSCPD4nJWpw2H9hYHAvcft1oalGrFFLct7xMNm",
+        "domain": "www.mediamarkt.com.tr",
+        "path": "/",
+        "expires": 1750198639.748823,
+        "httpOnly": true,
+        "secure": true,
+        "sameSite": "Strict"
+    },
+    {
+        "name": "a",
+        "value": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Im8yc2lnbiJ9.eyJzdWIiOiI1MjUwZjAxMS0xMmNjLTRkMTctOTQyOS0wMzFjNDYzOTg1YTEiLCJpc3MiOiJtbXNlIiwiaWF0IjoxNzQ4OTg5MDM4LCJleHAiOjE3NDg5ODk5MzgsImF1ZCI6IndlYm1vYmlsZSIsInQiOiJ1IiwidXNlcl9pZCI6IjIwMzA1OTMzOTEiLCJvIjoxMjU5LCJzIjoiRiIsInIiOiIxNjU4MTkwMDcwIn0.K11S-YyUpF7x0_CRsXD_7SNuk5fpA6U89QYFXvrMydkF6tg2nU5CLatzPbNbu6VNuG_eJrBkOi3m0DsI820n3Pbuma8B3l0ZQQ9XzcXDmcDrTU3-eFnUowvmZMtzncCdxX7NCNN-lyt3rrUje-TKOJDp2AcS6xwDVvn1UpJlFs57Lh509nJOSqk-DKfMMY4Ufap8Gs1lZQmq0WkKCWPSVL8eFY6fWWzJUT_gO1yZVKYTLuSZItgxNAXemHhXK-321R17UvKM0FBn6ZGh39lazJxcd9KW_2Ducyw13v8KaPv85bAiBN7OPaFizEYyMrZyWQ4WrRHJqGBqUCkHyq_1CA",
+        "domain": "www.mediamarkt.com.tr",
+        "path": "/",
+        "expires": 1748989939.748904,
+        "httpOnly": true,
+        "secure": true,
+        "sameSite": "Strict"
+    }
+]
